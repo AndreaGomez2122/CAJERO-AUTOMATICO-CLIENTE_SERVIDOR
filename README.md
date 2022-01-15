@@ -23,9 +23,9 @@ Una vez que el programa se haya ejecutado se habrá creado un volumen con dos im
 Sólo se debe introducir localhost:8081 en el navegador y tendrás una vista de la base de datos.
 
 
-![diagrama](./capturas/VistaBBDD-colecciones.png)
+![colecciones](./capturas/VistaBBDD-colecciones.PNG)
 
-![diagrama](./capturas/VistaBBDD-movimientos.png)
+![movimientos](./capturas/VistaBBDD-movimientos.PNG)
 
 
 ## Autor
