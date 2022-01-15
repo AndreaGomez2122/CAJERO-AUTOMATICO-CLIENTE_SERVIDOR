@@ -1,6 +1,6 @@
 package cliente;
 
-import repository.OperacionesRepository;
+
 import servidor.GestionClientes;
 
 import java.io.DataInputStream;
@@ -72,7 +72,6 @@ public class Cliente {
         //recibo menu de opciones
         String opcionesRecibidas = entrada.readUTF();
         System.out.println(opcionesRecibidas);
-        OperacionesRepository opciones = new OperacionesRepository();
         //elijo opcion deseada hasta que ya no quiera más operaciones
        int opcionElegida=0;
         while (opcionElegida != 5) {//paso por aqui mientras no se pulse en salir
